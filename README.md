@@ -12,6 +12,7 @@ The dashboard provides stakeholders with a comprehensive view of business health
 
 ### 1. Sales and Revenue (KPI 1)
 * **Objective:** This involves the identification of good and poor performance areas by region, type of vehicle, and sales representatives.
+![Sales and Revenue Dashboard](Images/KPI%201.jpg)
 * **Key Visuals:** Donut chart for Total Revenue by Vehicle Type, Line chart for Monthly Revenue by Vehicle Type, Bar chart for Revenue Statistics by Region, and a Matrix for Sales Representative Performance.
 * **Insights:**
     * Manchester is the best-performing region with a Total Revenue of £103M, while Birmingham underperforms.
@@ -19,6 +20,7 @@ The dashboard provides stakeholders with a comprehensive view of business health
 
 ### 2. Profit Contribution (KPI 2)
 * **Objective:** The analysis of gross profit, net profit margins, and cost structures to identify the most and least financially viable products.
+![Profitability & Cost Analysis](Images/KPI%202.jpg)
 * **Key Visuals:** Clustered column chart comparing Gross vs. Net Profit, Matrix for Profitability and Margin Breakdown, and a combo Line/Column chart for Sales Volume and Net Profit Margin by Model.
 * **Insights:**
     * Diesel vehicles, particularly Model C, yield the highest Net Profit Margins at 26.77%.
@@ -26,6 +28,7 @@ The dashboard provides stakeholders with a comprehensive view of business health
 
 ### 3. Environmental Sustainability (KPI 3)
 * **Objective:** Evaluating the carbon footprint of the fleet, fuel efficiency, and the attainment of the carbon reduction goals of the UK Government in 2030.
+![Sustainability & 2030 Target](Images/KPI%203.jpg)
 * **Key Visuals:** Gauge chart tracking Average Fleet Emission against the 2030 target, a Card for Total Emissions Avoided, and a clustered bar chart comparing Average Carbon Output vs. Fuel Efficiency by Model.
 * **Insights:**
     * The current average fleet emission is 98.87g/km, which is significantly higher than the 50.00g/km target.
@@ -39,5 +42,5 @@ Based on the dashboard analysis, the following actions are recommended for MaM M
 3. **Regional Inventory and Logistics Realignment:** Implement a localized inventory policy by concentrating EVs in high-demand, high-revenue centers to decrease outbound logistics overheads and increase EV net profit margins.
 
 ## 📂 Project Structure
-* [MaM_Motors_Dashboard](MaM_Motors.pbix): The complete Power BI file containing the data model, DAX, and visuals.
+* [MaM_Motors_Dashboard](MaM%20Motors.pbix): The complete Power BI file containing the data model, DAX, and visuals.
 * `Images/`: Screenshots of the main dashboard pages for a quick preview.
