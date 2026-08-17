@@ -39,5 +39,5 @@ Based on the dashboard analysis, the following actions are recommended for MaM M
 3. **Regional Inventory and Logistics Realignment:** Implement a localized inventory policy by concentrating EVs in high-demand, high-revenue centers to decrease outbound logistics overheads and increase EV net profit margins.
 
 ## 📂 Project Structure
-* `MaM_Motors_Dashboard.pbix`: The complete Power BI file containing the data model, DAX, and visuals.
+* `[MaM_Motors_Dashboard.pbix](MaM_Motors.pbix)`: The complete Power BI file containing the data model, DAX, and visuals.
 * `Images/`: Screenshots of the main dashboard pages for a quick preview.
